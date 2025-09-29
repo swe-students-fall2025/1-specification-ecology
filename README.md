@@ -43,8 +43,8 @@ ecoReport envisions a future where communities independently sustain reliable we
 See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
+![Multi Actor Activity Diagram](./images/multiActor.png)
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
 
 ## Clickable Prototype
 
