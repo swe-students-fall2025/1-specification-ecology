@@ -5,6 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 - [Avi Herman](https://github.com/avih7531/)
+- [William Chan](https://github.com/wc2184/)
 
 ## Stakeholders
 
