@@ -38,9 +38,20 @@ Data integrity and user safety are central to ecoReport’s design. Validation m
 ### Conclusions
 ecoReport envisions a future where communities independently sustain reliable weather reporting through collective participation. By uniting transparency, accessibility, and security in a user-friendly system, ecoReport ensures that the loss of centralized weather infrastructure does not compromise public access to critical environmental information
 
-## User Requirements
+## User Requirements  
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As a new user, I want to create an account and log in so that my reports and history are saved.  
+2. As a community member, I want to submit local weather data (temperature, humidity, wind, precipitation) so that I can contribute to the dataset.  
+3. As a contributor, I want to geotag my submission automatically or manually so that my report is tied to the correct location.  
+4. As a user, I want to view aggregated local conditions so that I can see real-time weather in my area.  
+5. As a traveler, I want to search conditions in a specific location so that I can prepare before leaving home.  
+6. As a user, I want to filter reports by temperature, precipitation, or air quality so that I can focus on what matters to me.  
+7. As a user, I want to receive alerts when severe conditions are reported nearby so that I can stay safe.  
+8. As a community member, I want to see visualizations (maps, charts, trends) so that I can understand conditions at a glance.  
+9. As a privacy-conscious user, I want my reports to be anonymized so that my identity is protected.  
+10. As an admin, I want to flag and remove false or malicious submissions so that the dataset stays trustworthy.  
+11. As an admin, I want to audit reports periodically so that the system remains resilient and accurate.  
+
 
 ## Activity Diagrams
 ![Multi Actor Activity Diagram](./images/multiActor.png)
