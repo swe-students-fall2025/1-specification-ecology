@@ -39,7 +39,7 @@ Data integrity and user safety are central to ecoReport’s design. Validation m
 ### Conclusions
 ecoReport envisions a future where communities independently sustain reliable weather reporting through collective participation. By uniting transparency, accessibility, and security in a user-friendly system, ecoReport ensures that the loss of centralized weather infrastructure does not compromise public access to critical environmental information
 
-## User Requirements  
+## User Requirements (User Stories)
 
 1. As a new user, I want to create an account and log in so that my reports and history are saved.  
 2. As a community member, I want to submit local weather data (temperature, humidity, wind, precipitation) so that I can contribute to the dataset.  
