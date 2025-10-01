@@ -79,6 +79,9 @@ ecoReport envisions a future where communities independently sustain reliable we
 
 
 ## Activity Diagrams
+![User 1 Activity Diagram](./images/user1.png)
+![User 2 Activity Diagram](./images/user2.png)
+
 ![Multi Actor Activity Diagram](./images/multiActor.png)
 
 
