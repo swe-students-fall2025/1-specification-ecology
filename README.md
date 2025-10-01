@@ -58,6 +58,12 @@ ecoReport envisions a future where communities independently sustain reliable we
 ![Multi Actor Activity Diagram](./images/multiActor.png)
 
 
+
+
+## Wireframe
+
+[Figma Wireframe Link](https://www.figma.com/design/CBcrUvf0P0AjIGfO3kpY9O/Project-1-Ecology?m=auto&t=aRhWSdAQKV0b5iXy-1)
+
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Clickable Prototype Link](https://www.figma.com/proto/CBcrUvf0P0AjIGfO3kpY9O/Project-1-Ecology?node-id=1-2&p=f&t=DYwkWsoryPR3VEp0-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
