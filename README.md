@@ -10,12 +10,13 @@ A little exercise to get started with the specification phase of the software de
 - [Reece Huey](https://github.com/Coffee859)
 
 ## Stakeholders
-Ella K
-Lily P
+Ella K.
+
+Lily P.
 
 We gave all stakeholders an informal interview, asking them about their thoughts on our app and what they could use it for.  
 
-## Goals or Needs
+### Goals or Needs
 Ella is a grad student who regularly goes outside for jogging or walking her companion animals. Considering how active her lifestyle is, she would need to know about weather conditions like rain or sunshine to be safe. 
 
 Lily is a senior majoring in Biology who has a great interest in gardening. In fact, she is the President of NYU's community garden, a little behind the Bobst Library. As an avid gardener, Lily needs to know about weather conditions like temperature, rainfall, and sunshine. That way, she can determine when to water or fertilize plants, how to protect plants from excessive cold or heat, and how to shield the garden against any harmful storms. 
@@ -28,7 +29,7 @@ Both students have share these goals:
 - Personally learn more about meteorology and the climate as part of citizen science
 - Contribute to broader scientific research on global climate patterns and climate change 
 
-## Problems or Frustrations
+### Problems or Frustrations
 A lot of citizen science apps like iNaturalist do not directly address local weather or climate, although the non-living factors of the environment matter too. The recent Donald Trump administration has been cutting funding for scientific research in general, meaning less resources for meteorology/climatology. Knowledge about weather/climate, though, could help ordinary persons learn about and prepare for potential harmful events, whether they are full-blown natural disasters or simply days that are too hot/cold. Internet weather reports are intended for the broader community but may not be able to account for particular aspects such as electricity blackouts or downed trees. 
 
 ## Product Vision Statement
