@@ -8,6 +8,7 @@ A little exercise to get started with the specification phase of the software de
 - [William Chan](https://github.com/wc2184/)
 - [Jaylon McDuffie](https://github.com/treejitsu)
 - [Reece Huey](https://github.com/Coffee859)
+- [Andrew Liu](https://github.com/AklLiu5062)
 
 ## Stakeholders
 Ella K
